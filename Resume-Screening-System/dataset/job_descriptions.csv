@@ -1,0 +1,6 @@
+job_id,title,description,skills
+1,Data Analyst,"Analyze business data, build dashboards, write SQL queries, and communicate insights using Python, pandas, statistics, and Tableau.","Python|SQL|pandas|statistics|Tableau"
+2,ML Engineer,"Build and deploy machine learning systems using Python, scikit-learn, TensorFlow, Docker, and cloud services.","Python|machine learning|scikit-learn|TensorFlow|Docker"
+3,Python Developer,"Develop reliable backend services and REST APIs in Python. Work with databases, Git, testing, and production code.","Python|REST APIs|databases|Git|testing"
+4,Frontend Developer,"Create accessible web interfaces with React, JavaScript, TypeScript, HTML, CSS, and REST API integrations.","React|JavaScript|TypeScript|HTML|CSS"
+5,NLP Engineer,"Research and implement natural language processing solutions with Python, NLP, deep learning, PyTorch, and text classification.","Python|NLP|deep learning|PyTorch|text classification"

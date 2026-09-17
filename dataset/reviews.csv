@@ -1,0 +1,42 @@
+text,toxic,insult,threat,obscene,hate
+"Great product, arrived quickly and works perfectly.",0,0,0,0,0
+"The quality is excellent and the packaging was careful.",0,0,0,0,0
+"Helpful seller and fast delivery. I am very satisfied.",0,0,0,0,0
+"This phone case looks good and fits my device well.",0,0,0,0,0
+"The item matches the description and arrived on time.",0,0,0,0,0
+"I would happily buy from this store again.",0,0,0,0,0
+"The instructions were clear and setup was easy.",0,0,0,0,0
+"Good value for money and friendly customer service.",0,0,0,0,0
+"The replacement was sent promptly. Thank you.",0,0,0,0,0
+"It is sturdy, useful, and exactly what I needed.",0,0,0,0,0
+"The color is accurate and the material feels durable.",0,0,0,0,0
+"A smooth shopping experience from start to finish.",0,0,0,0,0
+"This product is terrible and the seller is an idiot.",1,1,0,0,0
+"What a useless piece of junk. Do not buy this garbage.",1,1,0,0,0
+"You are a stupid liar and a completely incompetent seller.",1,1,0,0,0
+"The support agent was rude and acted like a moron.",1,1,0,0,0
+"I am furious about this awful service.",1,1,0,0,0
+"This is damn awful and the whole order is crap.",1,0,0,1,0
+"The product is fucking broken and worthless.",1,0,0,1,0
+"Stop wasting my time or I will find you and hurt you.",1,0,1,0,0
+"I will come to your shop and smash everything.",1,0,1,0,0
+"You better refund me now or you will regret it.",1,0,1,0,0
+"I hope your family suffers for selling this rubbish.",1,0,0,0,1
+"People like you should not be allowed in this country.",1,1,0,0,1
+"Go back where you came from, you disgusting people.",1,1,0,0,1
+"This seller is a complete asshole and a scammer.",1,1,0,1,0
+"The service is bloody awful and the staff are idiots.",1,1,0,1,0
+"Your company is unbelievably pathetic.",1,1,0,0,0
+"I hate this stupid store and everyone working there.",1,1,0,0,0
+"Do not contact me again, you creepy bastard.",1,1,0,1,0
+"This garbage order ruined my day.",1,0,0,0,0
+"The seller threatened me after I asked for a refund.",1,0,1,0,0
+"He said he would break my car if I left a bad review.",1,0,1,0,0
+"That was a nasty and disgusting response.",1,1,0,1,0
+"You are an ignorant fool who cannot do anything right.",1,1,0,0,0
+"This is obscene garbage from a dishonest seller.",1,0,0,1,0
+"I will report you and make sure you lose your job.",1,0,1,0,0
+"Your hateful comments are unacceptable.",1,0,0,0,1
+"The seller called me a filthy foreigner.",1,1,0,1,1
+"I wish this awful business would disappear.",1,0,0,0,0
+"Worst service ever, you absolute clown.",1,1,0,0,0

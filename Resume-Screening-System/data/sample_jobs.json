@@ -1,0 +1,20 @@
+[
+  {
+    "job_id": "sample-1",
+    "title": "Data Analyst",
+    "description": "Analyze business data, build dashboards, write SQL queries, and communicate insights using Python, pandas, statistics, and Tableau.",
+    "skills": ["Python", "SQL", "pandas", "statistics", "Tableau"]
+  },
+  {
+    "job_id": "sample-2",
+    "title": "ML Engineer",
+    "description": "Build and deploy machine learning systems using Python, scikit-learn, TensorFlow, Docker, and cloud services.",
+    "skills": ["Python", "machine learning", "scikit-learn", "TensorFlow", "Docker"]
+  },
+  {
+    "job_id": "sample-3",
+    "title": "Python Developer",
+    "description": "Develop reliable backend services and REST APIs in Python. Work with databases, Git, testing, and production code.",
+    "skills": ["Python", "REST APIs", "databases", "Git", "testing"]
+  }
+]
